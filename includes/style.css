@@ -1,0 +1,32 @@
+.header-section {
+  background-color: rgb(240, 240, 240);
+}
+.video-container {
+  margin: auto;
+  max-width: 700px;
+
+  background-color: rgb(240, 240, 240);
+}
+.tre-section {
+  background-color: rgb(240, 240, 240);
+}
+.five-section {
+  background-color: rgb(240, 240, 240);
+}
+.register-form {
+  max-width: 300px;
+  margin: auto;
+}
+.tutor-info {
+  background-color: rgb(240, 240, 240);
+}
+.nav-black {
+  background-color: black;
+}
+.stream-container {
+  background-color: #000000;
+}
+.color-red {
+  color: #ececec !important;
+  font-size: 14px;
+}
